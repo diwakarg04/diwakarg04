@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I am Diwakar.<br>A programmer and a Full-Stack Web Developer <br>I'm currently learning Node.js , React.js and MongoDB.<br>
+Hi , I am Diwakar.<br>A programmer and a Full-Stack Web Developer <br>
 <a href ="https://diwakarg04.github.io/Intermediate-CSS/">Check out my website</a>
 
 ## 🌐 Socials:
